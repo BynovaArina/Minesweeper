@@ -1,9 +1,5 @@
 <template>
   <div id="app">
-    <div class="main-page">
-    </div>
-    <div id="nav">
-    </div>
     <router-view/>
   </div>
 </template>
@@ -12,7 +8,7 @@
 #app {
   max-width: 600px;
   width: 100%;
-  margin: 4rem auto;
+  margin: 10rem auto;
   background: #111;
 }
 
